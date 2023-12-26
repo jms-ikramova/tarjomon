@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.backE{
+    width: 40%;
+    height: 40vh;
+    background-image: url(./flag\ of\ england.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.backU{
+    width: 40%;
+    height: 40vh;
+    background-image: url(./uzb\ flag.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
